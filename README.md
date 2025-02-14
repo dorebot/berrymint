@@ -18,6 +18,7 @@ Berry Boundless Automated NFT Mint Using direct smart contract and private keys
 4. Add EVM base blockchain private keys in `key.txt` file make sure to have atleast `0.006$` gas fees.
 5. IF you dont have gas fees in your Thousands of wallets and cant send manually the You can contact [https://t.me/ethhunter0x](https://t.me/ethhunter0x) i will send with my own Bulk ETH Sender smart contract.
 6. ONCE private keys with gas fees is loaded then run `node mint.js` to mint the NFT one by one.
+7. To generate Multiple EVM private and public key pair use old Python script. => https://github.com/dorebot/haust/blob/main/keygen.py (https://github.com/dorebot/haust/blob/main/keygen.py)
 
 # Requirements
 
